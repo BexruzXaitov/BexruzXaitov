@@ -11,10 +11,17 @@ I am a **Vibe Coder** who leverages the power of AI to transform ideas into work
 - 💡 **Philosophy:** Code is just a tool; the product and the "vibe" are what matter.
 - ⚡ **Current Focus:** Prompt engineering, full-stack AI development, and rapid prototyping.
 
-### 🛠️ Ecosystem & Tools
+### 🛠️ Tech Stack & Ecosystem
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,ai" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode,ai,figma" />
+  </a>
+</p>
+
+### 💻 OS & Workstation
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,chrome,terminal" />
   </a>
 </p>
 
